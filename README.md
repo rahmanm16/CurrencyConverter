@@ -12,14 +12,14 @@ This project is a **Currency Converter** application built with **JavaFX**. It e
 ### Screenshots
 
 #### Main Interface
-<img align="center" width="542" alt="Main Interface" src="https://github.com/user-attachments/assets/7d5a6733-d56f-4612-bd74-0ba45ef89855">
+<img align="center" width="542" alt="Main Interface" src="https://github.com/user-attachments/assets/06e0d182-8553-4454-8d88-b46468f38fc6">
 
 #### Real - time conversion
-<img align="center" width="544" alt="Real - time conversion" src="https://github.com/user-attachments/assets/b15aeba3-7855-462a-b631-77ec6bc8f94f">
+<img align="center" width="544" alt="Real - time conversion" src="https://github.com/user-attachments/assets/0341a775-4be2-4b21-9ea6-8ca9554a40de">
 
 
 #### Cryptocurrency Rates - Bitcoin
-<img align="center" width="544" alt="Bitcoin" src="https://github.com/user-attachments/assets/91ac3827-36aa-4ab9-bfb2-aeffc8a3d4c2">
+<img align="center" width="544" alt="Bitcoin" src="https://github.com/user-attachments/assets/4f9b708b-8309-4351-9a98-518520548187">
 
 
 ---
