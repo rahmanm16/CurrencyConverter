@@ -1,0 +1,2 @@
+
+APILayer.com -> search: 'Exchange Rates Data API' -> paste apikey here
